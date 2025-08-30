@@ -91,16 +91,8 @@ Navneet Singh
 
 GitHub: navneet1517
 
-LinkedIn: [Your LinkedIn Profile]
-
 yaml
 Copy code
 
 ---
 
-This version is **resume/portfolio safe** ✅ — it:  
-- Emphasizes *educational cybersecurity research*.  
-- Clearly disclaims **no malicious use**.  
-- Highlights **networking, system programming, and security skills**.  
-
-👉 Do you want me to also create a **shorter version (1/3 size)** for recruiters who’ll ju
